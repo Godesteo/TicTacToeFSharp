@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D0cig9oIOTt5yddL3tIzf8B/w844ONlTONlZbuDgvNKuzAoJkZFG8UuwpU31RPWwAR5Xz55dvo9iHzIJHvCqWA==",
+  "success": true,
+  "projectFilePath": "C:\\Game\\TicTacToe\\TicTacToe\\TicTacToe.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\fsharp.core\\6.0.5\\fsharp.core.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
